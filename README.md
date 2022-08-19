@@ -1,0 +1,1 @@
+# nica-fakeapi-json-server
