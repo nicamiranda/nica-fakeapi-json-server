@@ -36,14 +36,16 @@
           "title": "Book Riot",
           "description": "Book Riot is the largest independent editorial book site in North America and home to a host of media, from podcasts to newsletters to original content, all designed around diverse readers and across all genres.",
           "author": "Riot New Media Group",
-          "comments": ["Always Books"," Never Boring"]
+          "comments": ["Always Books"," Never Boring"],
+          "img" : "https://yt3.ggpht.com/a/AGF-l7_K6FefBcXI1QnnP9u2rxm820VBzETmcIjfOw=s900-c-k-c0xffffffff-no-rj-mo"
         },
         {
           "id": 2,
           "title": "The Chrysalis BREW Project",
           "description": "An Australia-based award-winning platform. This is where you would find thoughts, words, photos, videos, and other ideas in the realm of Books, Reviews, and Everything Written (BREW).",
           "author": "Susan Frances",
-          "comments": ["Power of the Written Word"," Top Australian and Global book blog"]
+          "comments": ["Power of the Written Word"," Top Australian and Global book blog"],
+          "img" : "https://media-exp1.licdn.com/dms/image/C5622AQGfmYP8Egm4Cw/feedshare-shrink_2048_1536/0/1658692803490?e=1661990400&v=beta&t=Pj6g3ddUWcNqzmIpjG-4vSedBrsyRKJwGWzznF4b6cI"
         },
         {
           "id": 3,
@@ -51,6 +53,7 @@
           "description": "The Amazon Book Review, formerly known as Omnivoracious is a large book blog managed by four different editors. It’s updated practically every day with at least two new articles.It is one of the most comprehensive book blog out there",
           "author": "Amazon",
           "comments": ["Always hot off the press"," sheer variety"]
+          "img" : "https://tse4.mm.bing.net/th?id=OIP.WwJvRz4nv_BsvVFH1TOQWQHaD-&pid=Api&P=0"
         }
   ],
   
